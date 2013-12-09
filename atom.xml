@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[BeeLog]]></title>
+  <link href="http://blksk.github.io/atom.xml" rel="self"/>
+  <link href="http://blksk.github.io/"/>
+  <updated>2013-12-09T11:17:21+09:00</updated>
+  <id>http://blksk.github.io/</id>
+  <author>
+    <name><![CDATA[Kurosuke]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
